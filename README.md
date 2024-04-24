@@ -1,7 +1,3 @@
-## Grade
-
-<img src="https://raw.githubusercontent.com/42-adbouras/images/master/125%25.png?token=GHSAT0AAAAAACQVP5TQ5VXFMCRNOZDTHTIYZRFNOAA" width=200px height=175px/>
-
 ## I - Mandatory Part
 
 The purpose of the function get_next_line() is to read a line from a file descriptor and return it. The function reads the file line by line, which means that each call to get_next_line returns the next line in the file.
